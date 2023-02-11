@@ -1,0 +1,78 @@
+{
+    "contacts20":[
+        {
+            "user_id": 1,
+            "pro_pic:": "http://......",
+            "username": "alan"
+        },
+        {
+            "user_id": 10,
+            "pro_pic:": "http://......",
+            "username": "william"
+        },
+        {
+            "user_id": 31,
+            "pro_pic:": "http://......",
+            "username": "tony"
+        }
+
+    ],
+    "posts":[
+        {
+            "post_id": 23,
+            "post_pic": "http://......",
+            "text": null,
+            "user": {
+                "username" : "alan",
+                "pro_pic": "http://......",
+                "bio": "Life is good",
+                "post_liked":  true
+            },
+            "last_four_post_pic": [
+                "http://......",
+                "http://......",
+                "http://......",
+                "http://......"
+            ],
+            "comments": "http://....."
+        },
+        {
+
+            "post_id": 32,
+            "post_pic": "http://......",
+            "text": "This is our first camping",
+            "user": {
+                "username" : "alan",
+                "pro_pic": "http://......",
+                "bio": "Life is good",
+                "post_liked":  true
+            },
+            "last_four_post_pic": [
+                "http://......",
+                "http://......",
+                "http://......",
+                "http://......"
+            ],
+            "comments": "http://....."
+        },
+        {
+
+            "post_id": 23,
+            "post_pic": "http://......",
+            "text": "Class is so cool",
+            "user": {
+                "username" : "alan",
+                "pro_pic": "http://......",
+                "bio": "Life is so good",
+                "post_liked":  true
+            },
+            "last_four_post_pic": [
+                "http://......",
+                "http://......",
+                "http://......",
+                "http://......"
+            ],
+            "comments": "http://....."
+        }
+    ]
+}
